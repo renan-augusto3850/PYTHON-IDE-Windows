@@ -4,18 +4,17 @@ IMPORTANTE:
    Mova esta pasta para "C:Usuários/nome do seu usuario/Àrea de Trabalho" para funcionar corretamente.
 
 REQUISITOS:
-   Esta pasta contem um script "instalation.sh", este script serve para instalar as dependencias no cmd do WINDOWS, mas pode ser instalado manualmente em outros sistemas (Os codigos para instalar as dependencias podem variar de acordo com o sistema)
-
+   Esta pasta contem um script "instalation.sh", este script serve para instalar o PySimpleGUI, você pode instalar manualmente caso não execute.
 VERSÃO DO PYTHON:
-   o script instala automaticamente o PYTHON 3 mas se tiver já instalado não precizara instalar de novo, mas precizará instalar as outras dependencias.
+  E necessario Python 3 pode ser instalado em: https://www.python.org/downloads/
    
 DEPENDENCIAS:
 
-*Pip
+*Pip (Instalado automaticamente)
 
 *PySimpleGUi
 
-*TKINTER
+*TKINTER (Instalado automaticamente)
 
 *Python 3
 
