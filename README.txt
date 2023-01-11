@@ -1,7 +1,7 @@
 BEM-VINDO A SUA IDE COM DESIGN CLEAN E SIMPLIFICADO.
 
 IMPORTANTE:
-   Mova esta pasta para "C:Usuários/nome do seu usuario/Àrea de Trabalho" para funcionar corretamente.
+   Mova o arquivo "PYTHON-IDE" para "C:Usuários/nome do seu usuario/Àrea de Trabalho" para funcionar corretamente.
 
 REQUISITOS:
    Esta pasta contem um script "instalation.sh", este script serve para instalar o PySimpleGUI, você pode instalar manualmente caso não execute.
