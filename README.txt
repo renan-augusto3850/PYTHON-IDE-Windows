@@ -4,7 +4,7 @@ IMPORTANTE:
    Mova o arquivo "PYTHON-IDE" para "C:Usuários/nome do seu usuario/Àrea de Trabalho" para funcionar corretamente.
 
 REQUISITOS:
-   Esta pasta contem um script "instalation.sh", este script serve para instalar o PySimpleGUI, você pode instalar manualmente caso não execute.
+   Esta pasta contem um arquivo "instalation.txt", este arquivo com uma linha de texto serve para instalar o PySimpleGUI.
 VERSÃO DO PYTHON:
   E necessario Python 3 pode ser instalado em: https://www.python.org/downloads/
    
